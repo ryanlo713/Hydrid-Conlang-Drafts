@@ -1,4 +1,4 @@
-# Hydrid-Conlang-Drafts
+# A conlang based on a simplified version of New Ithkuil
 
 ## New Ithkuil (Lexical Base) + Other Conlang (Grammatical Base)
 
