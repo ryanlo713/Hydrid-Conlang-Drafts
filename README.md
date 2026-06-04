@@ -57,16 +57,14 @@ Allowed Onsets
 
 #### Template for Content Words
 
-**C0** (NRM) — Default (without concatenation):
-1. `(none)/‘` — with instantiation & quantification → **MONADIC**
-2. `r` — with instantiation, without quantification → **AGGLOMERATIVE**
-3. `w` — without instantiation, with quantification → **NOMIC**
-4. `y` — without instantiation & quantification, X as a concept → **ABSTRACT**
+- **C0** (NRM) — Default (without concatenation):
+    1. `(none)/‘` — with instantiation & quantification → **MONADIC**
+    2. `r` — with instantiation, without quantification → **AGGLOMERATIVE**
+    3. `w` — without instantiation, with quantification → **NOMIC**
+    4. `y` — without instantiation & quantification, X as a concept → **ABSTRACT**
 
-`h, hr, hw, hy` — Same as above, but used for **concatenation**.
-
-**C0** (RPV): `l q m n; hl hq hm hn`
-
+    `h, hr, hw, hy` — Same as above, but used for **concatenation**.
+- **C0** (RPV): `l q m n; hl hq hm hn`
 - **V0** = Stem + Version: `a, ä, e, i, u, ü, o, ö`
 - **C1** = First valid consonantal form taken from the root
 - **V2…n** = Same as V0 if present; otherwise `a` by default
