@@ -151,3 +151,20 @@ Grammar particles are either monosyllabic words or words that clearly do not fit
 - **`ö`** — Within the subject, separates multiple subject phrases.
 
 The system can introduce Ithkuil registers and Illocutions (ai, au, ei, eu, ou, oi, iu, ui) as particles.
+
+---
+The New Ithkuil language, including its lexicon and grammatical framework (hereinafter "New Ithkuil"), is the original work of **JQ**, used here under the terms of the New Ithkuil usage guidelines.
+
+This draft document — including its phonology, conversion rules, and grammatical adaptations as described herein — is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit to the original author (JQ for New Ithkuil, and L.C.D. for this draft), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for **commercial purposes**.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: https://creativecommons.org/licenses/by-nc/4.0/
