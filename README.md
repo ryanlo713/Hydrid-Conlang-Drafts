@@ -47,7 +47,7 @@ Allowed Onsets
 - **Basic:** `a i u e o`
 - **Extra:** `ä ü ö`
 
-- **No diphthongs:** Insert a hiatus (glottal stop or vowel break) between two or more consecutive vowels.
+- **No diphthongs:** Insert a hiatus (or glottal stop) between two or more consecutive vowels.
 - **No coda:** Syllables are open (no final consonants).
 - **Stress:** Always falls on the **first syllable** of the word.
 
@@ -64,7 +64,7 @@ Allowed Onsets
     4. `y` — without instantiation & quantification, X as a concept → **ABSTRACT**
 
     `h, hr, hw, hy` — Same as above, but used for **concatenation**.
-- **C0** (RPV): `l q m n; hl hq hm hn`
+    **C0** (RPV): `l q m n; hl hq hm hn`
 - **V0** = Stem + Version: `a, ä, e, i, u, ü, o, ö`
 - **C1** = First valid consonantal form taken from the root
 - **V2…n** = Same as V0 if present; otherwise `a` by default
